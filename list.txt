@@ -16,3 +16,4 @@ Pizza
 Orangen
 Döner
 Sommerspritzer
+Salat
