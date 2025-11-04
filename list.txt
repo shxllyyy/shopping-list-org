@@ -1,6 +1,7 @@
 Fleischkas
 Äpfel
 Birnen
+Bananen
 O-Saft
 Salami
 Toastbrot
