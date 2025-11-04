@@ -1,7 +1,4 @@
 Fleischkas
--normal
--kaas
--pikant
 Äpfel
 Birnen
 O-Saft
